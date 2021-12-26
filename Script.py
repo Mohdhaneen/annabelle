@@ -1,6 +1,8 @@
 class script(object):
     START_TXT = """Heya {},
-I am <a href=https://t.me/{}>{}</a> I am a simple bot which can provide movies in your group"""
+I am <a href=https://t.me/{}>{}</a>I'm Powerful Auto-Filter Bot You Can Use Me As A Auto-filter in Your Group ....
+
+Its Easy To Use Me; Just Add Me To Your Group As Admin, Thats All, i will Provide Movies There...🤓"""
     HELP_TXT = """heya {}
 I have the following features. Tap the button in which you want help."""
     ABOUT_TXT = """✯ 𝙼𝚈 𝙽𝙰𝙼𝙴: {}
